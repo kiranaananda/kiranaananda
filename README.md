@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiranaananda
-- 👀 I’m interested in KDrama
-- 🌱 I’m currently learning python
-- 💞️ Looking forward to talk about social media analytics and ux projects
+- 👀 I’m interested in cooking
+- 🌱 I’m currently learning analytics
+- 💞️ Looking forward to talk about market intelligence
 - 📫 Reach me via <a href="https://www.linkedin.com/in/kiranaananda/">LinkedIn</a>
 
 <!---
